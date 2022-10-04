@@ -1,0 +1,2 @@
+- [x] git remote add
+- [x] npm init

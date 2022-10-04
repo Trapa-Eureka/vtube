@@ -1,0 +1,16 @@
+{
+  "name": "vtube",
+  "version": "1.0.0",
+  "description": "making video platform for video sharing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trapa-Eureka/vtube.git"
+  },
+  "author": "son jin ho<1982gaya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Trapa-Eureka/vtube/issues"
+  },
+  "homepage": "https://github.com/Trapa-Eureka/vtube#readme"
+}

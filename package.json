@@ -17,5 +17,9 @@
   "homepage": "https://github.com/Trapa-Eureka/vtube#readme",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3"
   }
 }

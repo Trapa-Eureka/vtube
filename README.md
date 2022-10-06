@@ -14,3 +14,4 @@
    1. 이유 : 최신 js로 작성해도 node가 알아듣기 용이한 걸로 컴파일해줌
    2. `npm install --save-dev @babel/core` 로 설치해줌
       1. devDependencies : 개발자에게 필요한 dependencies
+6. nodemon : 파일이 수정되는걸 감시하는 패키지
